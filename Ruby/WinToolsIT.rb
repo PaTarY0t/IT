@@ -41,7 +41,7 @@ def run_program(path, needs_admin)
 end
 
 programs = {
-  "1" => ["Component Services", "C:\\Windows\\System32\\compmgmt.msc", true], 
+  "1" => ["Component Services", "C:\\Windows\\System32\\comexp.msc", true], 
   "2" => ["Computer Management", "C:\\Windows\\System32\\compmgmt.msc", true],
   "3" => ["Defragment and Optimize Drives", "C:\\Windows\\System32\\dfrgui.exe", false],
   "4" => ["Disk Cleanup", "C:\\Windows\\System32\\cleanmgr.exe", false],
