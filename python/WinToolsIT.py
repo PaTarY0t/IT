@@ -50,7 +50,7 @@ def run_program(path, needs_admin):
 
 
 programs = {
-    "1": ("Component Services", r"C:\Windows\System32\compmgmt.msc", True),
+    "1": ("Component Services", r"C:\Windows\System32\comexp.msc", True),
     "2": ("Computer Management", r"C:\Windows\System32\compmgmt.msc", True),
     "3": ("Defragment and Optimize Drives", r"C:\Windows\System32\dfrgui.exe", False),
     "4": ("Disk Cleanup", r"C:\Windows\System32\cleanmgr.exe", False),
