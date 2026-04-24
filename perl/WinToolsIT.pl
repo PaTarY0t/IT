@@ -42,7 +42,7 @@ print $ascii_art;
 
 
 my %programs = (
-    "1"  => ["Component Services", "C:\\Windows\\System32\\compmgmt.msc", 1],
+    "1"  => ["Component Services", "C:\\Windows\\System32\\comexp.msc", 1],
     "2"  => ["Computer Management", "C:\\Windows\\System32\\compmgmt.msc", 1],
     "3"  => ["Defragment and Optimize Drives", "C:\\Windows\\System32\\dfrgui.exe", 0],
     "4"  => ["Disk Cleanup", "C:\\Windows\\System32\\cleanmgr.exe", 0],
